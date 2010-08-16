@@ -3,7 +3,7 @@
      Full explanation here: http://civicrm.org/blogs/ctashian/integrating-sendgrid-civimail
      See license below. */
 
-/* Modified by Wes Morgan to use the CiviCRM site key */
+/* Modified by Wes Morgan to use the CiviCRM settings file key */
 
 // Bootstrap CiviCRM config
 $civicrm_root = 'sites/all/modules/civicrm';
