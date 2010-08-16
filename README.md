@@ -1,11 +1,11 @@
-= SendGrid Notifier for CiviCRM
+# SendGrid Notifier for CiviCRM
 
 Originally by Carl Tashian, Participatory Politics Foundation.
 Full explanation here: http://civicrm.org/blogs/ctashian/integrating-sendgrid-civimail
 
 This version modified by Wes Morgan <wes@timetraveltoaster.com> to use a CIVICRM_SENDGRID_KEY setting in the civicrm.settings.php file rather than hard-coding the key.
 
-== LICENSE
+## LICENSE
 
 Copyright (c) 2010 Participatory Politics Foundation
 
